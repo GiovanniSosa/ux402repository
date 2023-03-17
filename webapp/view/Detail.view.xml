@@ -5,7 +5,7 @@
 >
         <App id="app">
             <pages>
-                <Page id="page" title="Detail">
+                <Page id="page" title="detail">
                     <content />
                 </Page>
             </pages>
